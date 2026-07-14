@@ -1,0 +1,17 @@
+excluded_targets:
+  - debug
+  - release
+  - flash_uf2
+  - flash_uf2_release
+  - flash_xip
+  - flash_xip_release
+  - flash_dfu
+  - flash_dfu_release
+
+dependency:
+  - uart
+  - femc
+
+excluded_ides:
+  - iar
+  - ses

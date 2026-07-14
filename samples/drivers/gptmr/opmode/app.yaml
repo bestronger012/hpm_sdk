@@ -1,0 +1,2 @@
+dependency:
+  - gptmrv2 || ip_feature_gptmr_op_mode
